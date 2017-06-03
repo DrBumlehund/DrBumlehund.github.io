@@ -1,0 +1,21 @@
+{
+  "name": "drbumlehund.github.io",
+  "version": "1.0.0",
+  "description": "My dev site",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DrBumlehund/DrBumlehund.github.io.git"
+  },
+  "author": "Thomas Lemqvist",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/DrBumlehund/DrBumlehund.github.io/issues"
+  },
+  "homepage": "https://github.com/DrBumlehund/DrBumlehund.github.io#readme"
+}
